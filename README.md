@@ -1,4 +1,4 @@
-Thanks for downloading :D
+Thanks for downloading :D      (check the releases for download then move it to "/home/user/.icons")
 
 this icon pack is still a work in progress!
 
