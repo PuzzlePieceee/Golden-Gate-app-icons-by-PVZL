@@ -4,4 +4,7 @@ this icon pack is still a work in progress!
 
 it uses pngs instead of svgs!
 
+
 <img width="5302" height="4910" alt="Untitled14_20260708215525 (1)" src="https://github.com/user-attachments/assets/ba3e7912-5cb2-4c4e-8abd-b7425faac050" />
+
+this is a compilation of premade icons I searched up and to create the file sytem if you dont like any icon u can replaced the main with any png to get a custom style
