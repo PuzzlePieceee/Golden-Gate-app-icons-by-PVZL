@@ -1,4 +1,4 @@
-Thanks for downloading :D      (check the releases for download then move it to "/home/user/.icons")
+Thanks for downloading :D      (check the releases for download then move it to "/home/user/.icons") *proceed anyway if evolvecore says "Icon-pack maybe corrupt*
 
 this icon pack is still a work in progress!
 
