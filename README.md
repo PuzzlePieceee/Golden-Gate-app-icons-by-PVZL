@@ -8,4 +8,6 @@ REMEMBER!. since this pack uses pngs it works best on gnome and just doesnt want
 
 <img width="5302" height="4910" alt="Untitled14_20260708215525 (1)" src="https://github.com/user-attachments/assets/ba3e7912-5cb2-4c4e-8abd-b7425faac050" />
 
+Some icons i had to design my self and where designed in figma
+
 this is a compilation of premade icons I searched up and. created the file system so if you dont like any icon u can replaced the main with any png to get a custom style and across all the icons symlinked 
