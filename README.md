@@ -3,7 +3,8 @@ Thanks for downloading :D      (check the releases for download then move it to 
 this icon pack is still a work in progress!
 
 it uses pngs instead of svgs!
-REMEMBER!. since this pack uses pngs it works best on gnome and just doesnt wants to work on kde at all idl whh.works on lxqt,cinnamon. works on cosmic but forskme reason has icons pixelated instead of being scaled
+REMEMBER!. since this pack uses pngs it works best on gnome 
+works on: lxqt,cinnamon,KDE Plasma. works on cosmic but forsome reason has icons pixelated 
 
 
 <img width="5302" height="4910" alt="Untitled14_20260708215525 (1)" src="https://github.com/user-attachments/assets/ba3e7912-5cb2-4c4e-8abd-b7425faac050" />
