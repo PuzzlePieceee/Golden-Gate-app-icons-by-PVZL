@@ -14,8 +14,5 @@ I couldnt find all the Icons for every app so I had to design them in figma, lik
 
 *This is a compilation of premade icons and my own. Created a file system so replacing a icons with any differnt look will replace all icons symlinked with the main (you might already Be aware with this)*
 
-Updated -> V4
-v3
-v2
-v1
+Updated -> V4    ,outdated -> V3
 
